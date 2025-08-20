@@ -12,4 +12,4 @@ Python project implementing a neural network from scratch (no ML frameworks) to 
 
 ## Authors
 - Sanzaiana Florea
-- Nume Coleg
+- Petru Ghionea
