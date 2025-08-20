@@ -1,5 +1,5 @@
 # cat-breed-nn
-## Cat Breed Neural Network (from scratch)
+**Cat Breed Neural Network (from scratch)**
 
 Python project implementing a neural network from scratch (no ML frameworks) to classify cat breeds using backpropagation.
 
