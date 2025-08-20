@@ -9,3 +9,7 @@ Python project implementing a neural network from scratch (no ML frameworks) to 
 - Training and prediction scripts
 - Modular codebase (dataset_processing, neural_network, NLP)
 - Supports multiple cat breeds
+
+## Authors
+- Sanzaiana Florea
+- Nume Coleg
